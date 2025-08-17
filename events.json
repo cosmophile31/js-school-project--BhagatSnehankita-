@@ -1,0 +1,93 @@
+[
+  {
+    "year": "1900s",
+    "title": "The Edwardian Era",
+    "description": "In the 1900s, women’s fashion was defined by the Edwardian “S-bend” corset silhouette, high collars, and floor-length skirts. Outfits were ornate, with lace, puffed sleeves, and wide hats being common.",
+    "imageURL": "Edwardian Era.jpeg",
+    "category": "Edwardian"
+  },
+  {
+    "year": "1910s",
+    "title": "Transition and Simplicity",
+    "description": "By the 1910s, fashion started to simplify, influenced by changing social roles and World War I. Hemlines slightly rose, corsets loosened, and dresses featured empire waists and hobble skirts.",
+    "imageURL": "1917 - Paris-élégant.jpeg",
+    "category": "Early 20th Century"
+  },
+  {
+    "year": "1920s",
+    "title": "The Flapper Era",
+    "description": "The 1920s brought radical change with the rise of the flapper. Women wore short, straight-cut dresses with drop waists, beaded fringe, and cloche hats.",
+    "imageURL": "1920s Fashion.jpeg",
+    "category": "Roaring Twenties"
+  },
+  {
+    "year": "1930s",
+    "title": "Hollywood Glamour",
+    "description": "In the 1930s, fashion returned to elegance, influenced by Hollywood glamour. Gowns were bias-cut and flowing, with longer hemlines and a soft feminine silhouette.",
+    "imageURL": "1930.jpeg",
+    "category": "Classic Hollywood"
+  },
+  {
+    "year": "1940s",
+    "title": "War and Utility",
+    "description": "During the 1940s, wartime rationing led to practical and tailored looks. Dresses and suits featured strong shoulders, knee-length skirts, and utility-inspired designs.",
+    "imageURL": "40s.jpeg",
+    "category": "Wartime Fashion"
+  },
+  {
+    "year": "1950s",
+    "title": "The Hourglass Revival",
+    "description": "The 1950s saw the revival of ultra-feminine fashion with full skirts, petticoats, cinched waists, and glamorous accessories.",
+    "imageURL": "50's Fashion.jpeg",
+    "category": "Mid-Century"
+  },
+  {
+    "year": "1960s",
+    "title": "Mod and Youthquake",
+    "description": "In the 1960s, youth culture exploded into fashion with mini skirts, shift dresses, and bold prints.",
+    "imageURL": "1960s.jpeg",
+    "category": "Mod Era"
+  },
+  {
+    "year": "1970s",
+    "title": "Boho and Disco",
+    "description": "The 1970s embraced both bohemian and disco styles. Bell bottoms, maxi dresses, peasant tops, and jumpsuits were popular.",
+    "imageURL": "70s.jpeg",
+    "category": "Retro"
+  },
+  {
+    "year": "1980s",
+    "title": "Power Dressing",
+    "description": "In the 1980s, bold was better. Power dressing became a trend, with oversized blazers, shoulder pads, neon colors, and flashy accessories dominating. Fitness trends also introduced leggings and leotards into everyday wear.",
+    "imageURL": "80s.jpeg",
+    "category": "Bold & Glam"
+  },
+  {
+    "year": "1990s",
+    "title": "Minimalism and Grunge",
+    "description": "The 1990s embraced minimalism and grunge. Women wore slip dresses, crop tops, oversized flannels, and Doc Martens. The look was effortless and influenced by alternative music and anti-fashion statements.",
+    "imageURL": "90s.jpeg",
+    "category": "Grunge & Minimalist"
+  },
+  {
+    "year": "2000s",
+    "title": "Y2K and Flashy Trends",
+    "description": "The 2000s (Y2K era) were flashy and playful with low-rise jeans, rhinestones, mini skirts, and logo-heavy brands. Pop icons inspired styles like velour tracksuits, butterfly clips, and visible midriffs.",
+    "imageURL": "00s.jpeg",
+    "category": "Y2K"
+  },
+  {
+    "year": "2010s",
+    "title": "Millennial Chic and Normcore",
+    "description": "In the 2010s, trends from past decades reemerged—like wide-leg pants, corsets, and crop tops—while individualism, sustainability, and digital influencers shaped personal style. Comfort-focused looks like athleisure became mainstream.",
+    "imageURL": "2010s.jpeg",
+    "category": "Millennial Fashion"
+  },
+  {
+    "year": "2020s",
+    "title": "Revival and Individualism",
+    "description": "In the 2020s, fashion is highly diverse and nostalgic. Wide-leg pants, corsets, and crop tops from earlier decades have reappeared. Sustainability, digital trends, and gender-fluid styles dominate.",
+    "imageURL": "2020s.jpeg",
+    "category": "Modern Revival"
+  }
+]
